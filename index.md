@@ -1,5 +1,5 @@
 # About
-![picture](https://user-images.githubusercontent.com/34648331/162424268-2348ab6c-187e-4b34-ac75-4bf873219ccb.jpg)
+![picture alt <](https://user-images.githubusercontent.com/34648331/162552795-b15bf473-211c-4363-a89c-733f8681107d.jpg)
 Young-Hyun Seo is a research professor in School of Civil, Environmental and Architectural Engineering at the Korea University. He received a Ph.D. in Transportation Engineering in 2020 and a B.S. in Civil and Environmental Engineering in 2014 from Seoul National University.
 
 Young-Hyun Seo is a member of TRANSYSLAB, a research group leaded by Seungmo Kang. See the [TRANSYSLAB](https://transyslab.wordpress.com/) homepage.
