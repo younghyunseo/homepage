@@ -8,14 +8,10 @@ Young-Hyun Seo is a member of TRANSYSLAB, a research group leaded by Seungmo Kan
 # Contact
 * Mailing address
 
-    Young-Hyun Seo
-
-    School of Civil, Environmental and Architectural Engineering
-
-    Korea University
-
-    145 Anam-ro, Seongbuk-gu
-
+    Young-Hyun Seo   
+    School of Civil, Environmental and Architectural Engineering   
+    Korea University   
+    145 Anam-ro, Seongbuk-gu   
     Seoul, Korea (02841)
 
 * Email: [yhseo@korea.ac.kr](mailto:yhseo@korea.ac.kr)
