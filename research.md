@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Publication
-permalink: /publication/
+title: Research
+permalink: /research/
 ---
 
+# Publications
 ## International Journal Articles
 * Seo, Y., D. Kim, S. Kang, Y. Byon, and S. Kho, (2022) “Rebalancing Docked Bicycle Sharing System with Approximate Dynamic Programming and Reinforcement Learning,” **Journal of Advanced Transportation**, Accepted.
 * Cho, J., Y. Seo, and D. Kim, (2021) <a href="https://doi.org/10.1177/03611981211016859" style="color: black;">“Efficiency Comparison of Public Bike-sharing Repositioning Strategies Based on Predicted Demand Patterns.”</a> **Transportation Research Record: Journal of the Transportation Research Record**, 2675(11), 104-118.
