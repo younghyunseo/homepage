@@ -6,7 +6,7 @@ permalink: /about/
 
 <img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/34648331/162552795-b15bf473-211c-4363-a89c-733f8681107d.jpg">
 
-Young-Hyun Seo is a research professor in the School of Civil, Environmental and Architectural Engineering at Korea University. His research interests include transportation planning, traffic demand analysis, and transportation optimization. He received a Ph.D. in Transportation Engineering in 2020 and a B.S. in Civil and Environmental Engineering in 2014 from Seoul National University.
+Young-Hyun Seo is a research professor in the School of Civil, Environmental and Architectural Engineering at Korea University. His research interests include transportation planning, traffic demand analysis, and transportation optimization. He received a Ph.D. in Transportation Engineering in 2020 and a B.S. in Civil and Environmental Engineering in 2014 from Seoul National University. He received the James Hill Prize of the ICE Publishing awards in 2022.
 
 Young-Hyun Seo is a member of TRANSYSLAB, a research group led by Seungmo Kang who is a professor in the School of Civil, Environmental and Architectural Engineering, Korea University. See the [TRANSYSLAB](https://transyslab.wordpress.com/) homepage.
 
